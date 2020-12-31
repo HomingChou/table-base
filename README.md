@@ -2,6 +2,9 @@
 
 > 基于Vue以及elementUI组件table的二次封装
 
+## Demo
+  [demo地址](https://homingchou.github.io/table-base/index.html)
+
 ## Build Setup
 
 ``` bash
