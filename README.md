@@ -1,6 +1,6 @@
 # table-base
 
-> a table-base project by elementUI
+> 基于Vue以及elementUI组件table的二次封装
 
 ## Build Setup
 
